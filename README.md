@@ -17,15 +17,19 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Basic react slider with responsive design
+Basic react form with custom hook.
 
 [Project-Demo](https://pensive-liskov-c3b646.netlify.app)
+
+![Screenshot from 2021-05-31 18-00-20](https://user-images.githubusercontent.com/75113766/120212042-36e80880-c23a-11eb-85b8-a652b7c070e1.png)
+
 
 #### React Used
 
 * Props
 * Hooks (useState, useReducer)
 * Forms
+* Custom Hook
 
 ### Built With
 * [React](https://www.javascript.com/)
